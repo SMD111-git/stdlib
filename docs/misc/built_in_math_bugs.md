@@ -95,7 +95,7 @@ limitations under the License.
 
 [@bug:mozilla:892671]: https://bugzilla.mozilla.org/show_bug.cgi?id=892671
 
-[@bug:mozilla:897634]: https://bugzilla.mozilla.org/show_bug.cgi?id=897634
+[@bug:mozilla:897634]: [@bug:mozilla:897634]: https://web.archive.org/web/20191215192748/https://bugzilla.mozilla.org/show_bug.cgi?id=897634
 
 [@bug:mozilla:717379]: https://bugzilla.mozilla.org/show_bug.cgi?id=717379#c5
 
